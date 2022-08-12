@@ -75,7 +75,7 @@ Lastly, we will solder the right angle pin headers on the front side of the Micr
 | Step Description | Visual | 
 | --- | --- |
 | The connections visualized. | ![image](https://user-images.githubusercontent.com/84528674/122422951-8e38e900-cf5b-11eb-8655-d8ac591d0068.png) |
-| Solder six right angle pin headers on each MicroDriver's top side of the board.| --- |
+| Solder six right angle pin headers on each MicroDriver's top side of the board.| ![git 3](https://user-images.githubusercontent.com/108290663/184447481-87b24126-949f-4c60-aaac-61ae3409f1e5.jpg) |
 
 ## MicroDriver Power Supply Cables
 This step focuses on soldering power supply cables to the MicroDriver that will serve as the consumer connection, regardless of chosen power supply method. The following table lists the necessary tools, parts, and materials to complete this step. 
