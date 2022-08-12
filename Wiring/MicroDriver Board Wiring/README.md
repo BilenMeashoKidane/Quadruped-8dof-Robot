@@ -119,8 +119,8 @@ This is the process of connecting the cables for one MicroDriver board. You will
 | Solder one 2mm female gold connector per wire. Make sure the orientation is correct before each solder (confirm a male connector can be inserted). | ![image](https://user-images.githubusercontent.com/84528674/120827242-3cd73580-c529-11eb-83fa-507fd5ea4237.png) |
 | Use the 2.4mm heat shrink to cover the entire connection after each solder. | ![image](https://user-images.githubusercontent.com/84528674/121407812-b6a65f00-c92d-11eb-8ec7-c10ce14d6569.png) |
 | Strip about 0.5cm to 1cm on one the other end of each wire, twisting the exposed wire after each cut.  | --- |
-| Push a few cm of 1.5mm heat shrink on each wire, and slide the heat shrink to the gold connection side of the wire. (**do not** use the heat gun on this yet). | --- |
-| Solder each wire to a right angle pin header on the MicroDriver. Use the 1.5mm heat shrink to cover the connection after each solder. | --- |
+| Push a few cm of 1.5mm heat shrink on each wire, and slide the heat shrink to the gold connection side of the wire. (**do not** use the heat gun on this yet). | ![git](https://user-images.githubusercontent.com/108290663/184447885-f8bdb788-37a8-425c-8567-7e43d9390dd6.jpg)|
+| Solder each wire to a right angle pin header on the MicroDriver. Use the 1.5mm heat shrink to cover the connection after each solder. | ![git2](https://user-images.githubusercontent.com/108290663/184448187-0bff7609-f21d-42a0-b198-71792578feda.jpg) |
 
 
 ## MicroDriver Encoder Cables
