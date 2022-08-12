@@ -142,7 +142,9 @@ https://github.com/open-dynamic-robot-initiative/open_robot_actuator_hardware/bl
 | --- | --- |
 | Trim the 26 AWG multicolored, precrimped wires to **XYZ** inches. Strip about 1cm of casing from one end of each wire, and twist the exposed wire after each cut.  | --- |
 | Solder the wires according to this pin layout. Use 1.5mm heat shrink to secure the connection after each solder. | ![image](https://user-images.githubusercontent.com/84528674/122424280-96ddef00-cf5c-11eb-8842-525534f8157d.png) |
-| Use thin strips of 2.4mm heat shrink for wire management, leaving at least 10cm of unbounded wire at the exposed end. | --- |
+| Use flat pliers to bend the pins 45 degrees downwards| ![git 3](https://user-images.githubusercontent.com/108290663/184448572-4559cc47-8368-421f-a57e-b5f454cd0873.jpg)|
+| Solder the wires to the pins| ![git 4](https://user-images.githubusercontent.com/108290663/184448753-817f91ea-2e9b-4c19-9e9a-4679e092c1c4.jpg)|
+| Use thin strips of 2.4mm heat shrink for wire management, leaving at least 10cm of unbounded wire at the exposed end. | ![git 5](https://user-images.githubusercontent.com/108290663/184448917-1fdb52b0-b661-4ad8-ba83-57ad6dc9a573.jpg) |
 | Strip about 0.25cm of wire casing on each of the five exposed wires.  | --- |
 | Use tweezers to insert the wires into the 5pin socket connector, making sure to abide by the correct pin to pin connection. | --- |
 
